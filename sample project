@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my first page</title>
+    <style>
+        h2{
+            color: rgba(18, 191, 230, 0.856);
+        }
+    </style>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="navbar" href="#">
+    <a  id="logo" href="#">amazon.in</a>
+    <a href="#">account</a>
+    <a href="#" >my cart</a>
+    <a  href="#">contact us</a>
+    
+        <input placeholder="search amazon.in">
+        <button>search</button>
+    
+    </div>
+    >
+    <h6>
+        this is don no 1
+    </h6>
+<h1 style="color: rgb(23, 205, 129)" class="text">hello from anshika mart </h1>
+<h2 class="jay">this is ecommerce company</h2>
+<h3 class="jay">this is my beginning</h3>
+<button>
+    click here
+</button>
+
+
+    <h1>hello world</h1>
+    <a href="https://www.youtube.com/watch?v=gG9mzVV9FYA&list=PL9RcWoqXmzaK6AHCCyL_J6gqc02RN-w-D">youtube videos</a>
+    <br>
+    <a href="https://web.whatsapp.com/">my whatsapp</a>
+    <br>
+    <a href="/hello.html">go to hello</a>
+    <img src="https://wallpapercave.com/wp/wp3207180.jpg"
+    <br>
+    <a href="https://www.youtube.com/watch?v=YgZmcsxU45w" target="_main"> <img src="http://www.clipartbest.com/cliparts/yio/6Xo/yio6XoAyT.png" height="200"></a>
+   
+    <br>
+    <img src="https://tse3.explicit.bing.net/th?id=OIP.H8n03ccG93RnaJ3UueBGhgHaEo&pid=Api&P=0&h=180" alt="love birds">
+    <br>
+    <img src="https://tse2.mm.bi.net/th?id=OIP.heLQTvd6hhJ6Zz7C6ZZLwQHaES&pid=Api&P=0&h=180" alt="love"  >
+
+    <br>
+    <img src="/th.jpg">
+    <br>
+    <br>
+<i>how are you</i>
+    <br>
+    <u>i am fine</u>
+    <div><p>how are  u</p>
+        <p>how are  u</p><p>how are  u</p></div>
+        <table>
+            <caption>
+                student data
+            </caption>
+           <thead>
+            <tr>
+                <th colspan="2">name</th>
+                
+                
+            </tr> </thead>
+           <tbody> <tr>
+                <td>
+                Akash
+                </td>
+                <td>72</td>
+            </tr>
+        </tbody>
+
+        </table>
+        <form>
+            <h3>tell me about yourself</h3>
+            <input type="text" placeholder="username"><br><br>
+            <input type="password" placeholder="password"><br>
+            <h3>standard</h3>
+            <label for="101">
+            <input type="radio" value="class 11" name="class" id="101">class 11
+        </label><br>
+
+            <label for="102">
+            <input type="radio" value="class 12" name="class" id="102">class 12
+        </label>
+        <h3>select your favorite subject</h3>
+        <br>
+        <label for="math">
+            <input type="checkbox" value="math" name="subject" >maths <br>
+            <label for="phy">
+                <input type="checkbox" value="phy" name="subject" >phy <br>
+            </label><label for="computer">
+                <input type="checkbox" value="science" name="subject" >science<br>
+            </label>
+            <label for="computer science">
+                <input type="checkbox" value="computer scienc" name="subject" > computer scienc<br>
+            </label>
+        </label>
+        <br>
+<textarea name="feedback" placeholder="please give your suggestion">feedback</textarea>
+<br>
+<select name="city">
+    <option value="delhi">delhi</option>
+    <option value="mumbai">mumbai</option>
+    <option value="pune">pune</option>
+    <option value="kanpur">kanpur</option>
+</select>
+<input type="submit" value="submit">
+        </form>
+        <br>
+        <video src="/a.mp4" controls autoplay>my video</video>
+        <br>
+        <br><br><br><br>
+        <br><br><br><br>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/UmnCZ7-9yDY?si=W7iOQUxkZ7k2YgPG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div><p>this is a big bro
+    
+</p>p>this is a big bro
+    
+</p>p>this is a big bro
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CJRI-AolHms?si=rCEn7PfN7Aw071os" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+</p></div>
+    <br>bro
+
+    <br>
+    <br>
+<Span>this is a big bro</Span>
+<ol>
+    <li>mango</li>
+    <ol>
+       <li>colour :red</li> 
+       <li>season: winter</li> 
+    </ol>
+    <li>apple</li>
+   
+     <ol>
+       <li>colour :red</li> 
+       <li>season: winter</li> 
+    </ol>
+    <li>banana</li>
+    
+     <ol>
+       <li>colour :red</li> 
+       <li>season: winter</li> 
+    </ol>
+    <li>orange</li>
+     <ol>
+       <li>colour :red</li> 
+       <li>season: winter</li> 
+    </ol>
+    <li>itchi</li>
+</ol> 
+
+<small>this is a small bro</small>
+<hr>
+<p>h<sub>2</sub>o
+<br>
+2<sup>2</sup>=4</p>
+
+<b>this is my first paragraph in html;</b> 
+ <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel ratione assumenda dolor, tempora quisquam enim inventore error explicabo velit animi mollitia. Quo laudantium, atque asperiores cumque dolorum, unde vitae voluptatibus delectus laboriosam dolor, dolores assumenda explicabo praesentium qui reprehenderit ipsam earum ab ipsa vero non similique? Voluptatem mollitia voluptas nisi unde inventore nihil officia dolores fugit tempore voluptates. Doloribus dicta minus ex aperiam excepturi similique distinctio reprehenderit ipsa nisi assumenda provident, eum numquam voluptatem saepe dolorum atque autem tempore quibusdam unde itaque. Accusantium ad voluptate repellendus asperiores tenetur dolorum distinctio eligendi dolores fuga sint quisquam optio culpa corporis, sequi iure voluptatibus, est facilis quae quos quibusdam veritatis autem officiis facere? Id, excepturi et, corporis doloribus esse sit obcaecati soluta, nam illo ea quas odio ratione nesciunt laboriosam at veniam blanditiis. Incidunt aliquam alias quidem modi beatae. Voluptate maxime vitae quo at, eligendi sequi. Illum, saepe tempore tempora vel ducimus atque deleniti, ea cupiditate similique id repellendus aspernatur quibusdam eius nulla eum mollitia sequi itaque. Inventore veniam incidunt quasi iste, reiciendis esse pariatur asperiores nulla voluptas quis quisquam soluta corrupti nihil, ipsum, suscipit necessitatibus labore alias. Esse nobis nostrum, expedita veniam consectetur exercitationem neque quasi doloribus praesentium odio ipsa quaerat quos quia rerum distinctio. Repudiandae eos quisquam a consectetur sunt minus aut neque voluptatem dolore quidem saepe possimus, iure voluptate quasi nisi! Suscipit quasi maxime at quas, repellendus, temporibus hic eum ratione doloremque, fugit maiores non sed? Commodi, exercitationem odio nostrum soluta quae autem libero sit velit aut quos vitae dolorum molestiae vel aliquam aliquid omnis repellendus provident dignissimos natus distinctio, esse cum officia nisi alias! Autem, incidunt. Ea, molestias placeat. Omnis amet doloremque ipsa accusantium, quam illo facere debitis sapiente reiciendis dolor dolores, praesentium, vero numquam quaerat. Fuga animi quo fugit illum tempore nam quod laboriosam et molestiae enim? Minima beatae voluptatibus cupiditate maxime tenetur tempora esse omnis illum pariatur consequuntur in perspiciatis obcaecati, voluptate nam, quam et eveniet dicta, architecto porro necessitatibus! Ipsum cumque, beatae veniam, molestiae porro esse ipsa asperiores magni dolorem vel accusantium. Laudantium reprehenderit, sunt dolorum nulla pariatur doloribus nisi iure aspernatur quia accusamus eos debitis amet nihil illum cupiditate perspiciatis minus neque labore animi in? Eveniet modi officia sapiente nihil corporis impedit molestias. Eius optio impedit, harum expedita voluptates earum non assumenda officiis odit magni magnam ut. Incidunt, nesciunt iure. Voluptatibus laudantium magni, amet veniam vero fugiat. Cupiditate, laboriosam. Corrupti molestiae veritatis obcaecati repellendus iure quis et autem. Quam sapiente, quas corporis similique magnam neque consequatur expedita at ipsam? Aliquid doloremque odio, voluptatem porro explicabo saepe eos sed ad. Autem voluptate ipsum tenetur perspiciatis optio. </p>
+<!-- <h1>heading 1</h1> -->
+<h1>heading 2</h2>
+<h3>heading 3</h3>
+<h4>heading 4</h4>
+<h5>heading 5</h5>
+<h6>heading 6 </h6> -->
+<p id="para">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus tenetur iste 
+    consequuntur, iure sit perspiciatis quam totam nemo
+    repudiandae sint ad ea alias, expedita debitis repellendus
+     ipsa obcaecati! Est, minus!</p>
+
+</body>
+</html>
